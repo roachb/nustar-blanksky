@@ -6,7 +6,7 @@ In-progress repository containing supplemental information for NuSTAR blank-sky 
 - Fig. 2 -- new figure showing distribution of exposure times versus angular distance from Galactic Center.
 - Fig. 5 -- new figure comparing DM decay rates from many NuSTAR analyses.
 - Sec. V-C -- explicitly described why the excesses in mass ranges ~7.8--8.5 keV, ~11--12 keV, ~13--14 keV, ~18--19 keV, and ~21--22 keV are not consistent with DM.
-- Fig. 6 -- found error in plotting the new (blue) mixing-angle constraints; after fixing the bug, constraints for masses ~30--40 keV are strengthened by a factor of a few.
+- Fig. 6 -- found error in plotting the new (blue) mixing-angle constraints; after fixing the bug, constraints for masses ~30--40 keV are strengthened by a factor of a few. Also fixed error in plotting 3.5-keV point and XMM constraint.
 - Sec. V-D -- added additional discussion of E ~ 3.5 keV feature in NuSTAR background; expanded discussion of BBN and structure-formation limits
 
 
