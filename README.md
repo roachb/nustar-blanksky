@@ -15,6 +15,7 @@ In-progress repository containing supplemental information for NuSTAR blank-sky 
 - Updated affiliations and acknowledgements
 - Added "complementary" to legend of Fig. 6 to emphasize that our present results are complementary to previous NuSTAR constraints
 - Minor fixes/corrections to body text, conclusions unchanged
+- This is the version submitted to PRD
 
 
 ## Contents:
